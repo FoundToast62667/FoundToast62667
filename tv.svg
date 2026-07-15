@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" width="500" height="100">
+  <rect width="100%" height="100%" rx="10" fill="#000000" />
+  
+  <text x="77.5" y="58" fill="#FFFFFF" font-family="Courier New, Courier, monospace" font-size="20" font-weight="bold">
+    There's Nothing To See Here
+  </text>
+  
+  <rect x="407" y="40" width="12" height="20" fill="#FFFFFF">
+    <animate attributeName="visibility" values="visible;hidden;visible" dur="0.8s" repeatCount="indefinite" />
+  </rect>
+</svg>
